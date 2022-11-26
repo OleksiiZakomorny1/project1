@@ -11,7 +11,7 @@ body {
 }
 
 .preheader {
-	background-image: url('../assets/images/PreHeaderBackground.png');
+	background-image: url('assets/images/PreHeaderBackground.png');
 	background-repeat: no-repeat;
 	height: 100vh;
 	display: flex;
@@ -142,7 +142,7 @@ body {
 }
 
 .why_us {
-	background: url("./assets/images/WhyBackground.png") no-repeat center;
+	background: url("assets/images/WhyBackground.png") no-repeat center;
 	height: 704px;
 	position: relative;
 }
@@ -241,7 +241,7 @@ body {
 }
 
 .madrid {
-	background-image: url('./assets/images/madrid.png');
+	background-image: url('assets/images/madrid.png');
 	background-repeat: no-repeat;
 	height: 500px;
 	background-size: cover;
@@ -303,7 +303,7 @@ body {
 }
 
 .secondmadrid {
-	background-image: url('./assets/images/secondmadrid.png');
+	background-image: url('assets/images/secondmadrid.png');
 	background-repeat: no-repeat;
 	height: 500px;
 	background-size: cover;
@@ -316,7 +316,7 @@ body {
 }
 
 .tourists {
-	background-image: url('./assets/images/tourists.png');
+	background-image: url('assets/images/tourists.png');
 	height: 680px;
 	position: relative;
 }
