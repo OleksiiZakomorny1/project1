@@ -11,7 +11,7 @@ body {
 }
 
 .preheader {
-	background-image: url("./assets/images/PreHeaderBackground.png");
+	background-image: url("../assets/images/PreHeaderBackground.png");
 	background-repeat: no-repeat;
 	height: 100vh;
 	display: flex;
